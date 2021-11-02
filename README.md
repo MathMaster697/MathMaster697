@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-Olá! Seja bem vindo ao meu perfil, sou o **Matheus**,  sou estudando de análise e desenvolvimento de sistemas e sou apaixonado por desenvolvimento web. 👨‍💻
+Olá! Seja bem vindo ao meu perfil, sou o **Matheus**,  sou formado em análise e desenvolvimento de sistemas e sou apaixonado por desenvolvimento web. 👨‍💻
 
 
 # Arquivos 💼
